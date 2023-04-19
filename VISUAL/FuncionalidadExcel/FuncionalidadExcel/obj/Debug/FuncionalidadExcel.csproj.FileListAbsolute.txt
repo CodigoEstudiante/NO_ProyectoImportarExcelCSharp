@@ -1,0 +1,17 @@
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD EXCEL\VISUAL\FuncionalidadExcel\FuncionalidadExcel\bin\Debug\FuncionalidadExcel.exe.config
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD EXCEL\VISUAL\FuncionalidadExcel\FuncionalidadExcel\bin\Debug\FuncionalidadExcel.exe
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD EXCEL\VISUAL\FuncionalidadExcel\FuncionalidadExcel\bin\Debug\FuncionalidadExcel.pdb
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD EXCEL\VISUAL\FuncionalidadExcel\FuncionalidadExcel\bin\Debug\ExcelDataReader.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD EXCEL\VISUAL\FuncionalidadExcel\FuncionalidadExcel\bin\Debug\ExcelDataReader.pdb
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD EXCEL\VISUAL\FuncionalidadExcel\FuncionalidadExcel\bin\Debug\ExcelDataReader.xml
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD EXCEL\VISUAL\FuncionalidadExcel\FuncionalidadExcel\obj\Debug\FuncionalidadExcel.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD EXCEL\VISUAL\FuncionalidadExcel\FuncionalidadExcel\obj\Debug\FuncionalidadExcel.Form1.resources
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD EXCEL\VISUAL\FuncionalidadExcel\FuncionalidadExcel\obj\Debug\FuncionalidadExcel.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD EXCEL\VISUAL\FuncionalidadExcel\FuncionalidadExcel\obj\Debug\FuncionalidadExcel.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD EXCEL\VISUAL\FuncionalidadExcel\FuncionalidadExcel\obj\Debug\FuncionalidadExcel.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD EXCEL\VISUAL\FuncionalidadExcel\FuncionalidadExcel\obj\Debug\FuncionalidadExcel.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD EXCEL\VISUAL\FuncionalidadExcel\FuncionalidadExcel\obj\Debug\FuncionalidadExcel.exe
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD EXCEL\VISUAL\FuncionalidadExcel\FuncionalidadExcel\obj\Debug\FuncionalidadExcel.pdb
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD EXCEL\VISUAL\FuncionalidadExcel\FuncionalidadExcel\bin\Debug\ExcelDataReader.DataSet.dll
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD EXCEL\VISUAL\FuncionalidadExcel\FuncionalidadExcel\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\WorkSpaceAD\YOUTUBE\FUNCIONALIDAD EXCEL\VISUAL\FuncionalidadExcel\FuncionalidadExcel\bin\Debug\ExcelDataReader.DataSet.xml
